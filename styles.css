@@ -51,6 +51,31 @@ body {
   margin-bottom: 15px;
 }
 
+.menu-heading {
+  margin-bottom: 20px;
+  font-family: 'Almarai', sans-serif;
+  font-size: 1.3rem;
+  color: #EAD1BC;
+}
+
 .container-fluid {
   padding-right: 100px;
+}
+
+/* MANASHEF SECTION */
+#manashef {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+/* MASHWEYAT BELKILO SECTION */
+#mashweyat-belkilo {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+/* MOAGANAT-LOHOOM SECTION */
+#moaganat-lohoom {
+  text-align: center;
+  margin-bottom: 150px;
 }
