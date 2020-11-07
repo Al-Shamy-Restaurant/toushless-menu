@@ -50,3 +50,7 @@ body {
   font-size: 1.1rem;
   margin-bottom: 15px;
 }
+
+.container-fluid {
+  paddign-right: 100px;
+}
