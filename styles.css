@@ -20,3 +20,33 @@ body {
   font-family: 'Almarai', sans-serif;
   font-size: 1.6rem;
 }
+
+/* WAGABAT SECTION */
+#wagabat {
+  text-align: center;
+}
+
+.menu-section-heading {
+  color: #CA9B72;
+  font-size: 5.5rem;
+  font-family: 'Markazi Text', serif;
+  margin-bottom: 40px;
+}
+
+.col-description {
+  text-align: right;
+}
+
+.menu-item {
+  color: #EAD1BC;
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+  font-family: 'Almarai', sans-serif;
+}
+
+.sub-menu-item {
+  color: #EAD1BC;
+  font-family: 'Almarai', sans-serif;
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+}
