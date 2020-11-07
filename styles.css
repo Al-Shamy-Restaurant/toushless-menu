@@ -11,6 +11,12 @@ body {
 .intro-heading {
   font-family: 'Jomhuria', cursive;
   color: #CA9B72;
-  font-size: 10rem;
+  font-size: 8rem;
   margin-bottom: 6px;
+}
+
+.location-text {
+  color: #fff;
+  font-family: 'Almarai', sans-serif;
+  font-size: 1.6rem;
 }
