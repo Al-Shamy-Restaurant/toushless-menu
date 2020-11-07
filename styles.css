@@ -6,6 +6,7 @@ body {
 #intro {
   text-align: center;
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .intro-heading {
@@ -24,6 +25,7 @@ body {
 /* WAGABAT SECTION */
 #wagabat {
   text-align: center;
+  margin-bottom: 100px;
 }
 
 .menu-section-heading {
@@ -65,17 +67,17 @@ body {
 /* MANASHEF SECTION */
 #manashef {
   text-align: center;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 /* MASHWEYAT BELKILO SECTION */
 #mashweyat-belkilo {
   text-align: center;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 /* MOAGANAT-LOHOOM SECTION */
 #moaganat-lohoom {
   text-align: center;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
