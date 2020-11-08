@@ -6,6 +6,12 @@ body {
 .side-navbar-icon {
   margin-left: 15px;
   margin-top: 15px;
+  position: fixed;
+  font-size: 4rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #BFADA8;
+  top: 20px;
+  cursor: pointer;
 }
 
 .sidenav {
