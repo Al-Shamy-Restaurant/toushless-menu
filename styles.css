@@ -81,3 +81,31 @@ body {
   text-align: center;
   margin-bottom: 100px;
 }
+
+/* FERAKH SECTION */
+#ferakh {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+/* SANDWICH SECTION */
+#sandwich {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+/* PIZZA SECTION */
+#pizza {
+  text-align: center;
+  color: #EAD1BC;
+  margin-bottom: 100px;
+}
+
+.pizza-item {
+  margin-bottom: 6px;
+}
+
+.pizza-price {
+  margin-top: 47px;
+}
+
