@@ -1013,10 +1013,13 @@
     <script>
     function openNav() {
       document.getElementById("mySidenav").style.width = "400px";
+      document.querySelector(".side-navbar-icon").style.zIndex = "0";
+      
     }
 
     function closeNav() {
       document.getElementById("mySidenav").style.width = "0";
+      document.querySelector(".side-navbar-icon").style.zIndex = "1";
     }
 
     function openFacebookPage() {
