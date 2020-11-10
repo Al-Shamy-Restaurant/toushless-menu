@@ -12,6 +12,7 @@ body {
   color: #BFADA8;
   top: 20px;
   cursor: pointer;
+  z-index: 1;
 }
 
 .sidenav {
@@ -200,4 +201,21 @@ body {
 #shawerma {
   text-align: center;
   margin-bottom: 100px;
+}
+
+* FOOTER SECTION */
+#footer {
+  text-align: center;
+  background-color: #A9AFB5;
+}
+
+.font-awesome {
+  margin-top: 50px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+}
+
+.font-awesome:hover {
+  cursor: pointer;
 }
